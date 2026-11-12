@@ -1,4 +1,4 @@
-# browser-server-templates
+# browser-server-examples
 JavaScript service worker as a server for your webpage/web application, living in your browser. Example library on how it can be done and how to use the different moving parts at hand.
 
 **Advantages:**
@@ -13,8 +13,8 @@ JavaScript service worker as a server for your webpage/web application, living i
 
 ### browser-server examples
 
-1. [Calculator](https://eklem.github.io/browser-server-templates/examples/01-calculator/)
-2. [Search engine](https://eklem.github.io/browser-server-templates/examples/02-search-engine/)
+1. [Calculator](https://eklem.github.io/browser-server-examples/examples/01-calculator/)
+2. [Search engine](https://eklem.github.io/browser-server-examples/examples/02-search-engine/)
 
 ## Files and their function
 
@@ -61,7 +61,7 @@ Just an example code library. This will be the main library you want do do some 
 ## Development setup
 
 ```console
-cd browser-server-templates
+cd browser-server-examples
 npm install
 npm run build
 npx serve
